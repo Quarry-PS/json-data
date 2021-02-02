@@ -1,112 +1,83 @@
 {
-	"data": [
-		{
-			"block": "cobble stone",
-			"worth": 0.5
-		},
-		{
-			"block": "stone",
-			"worth": 1
-		},
-		{
-			"block": "coal ore",
-			"worth": 3
-		},
-		{
-			"block": "coal block",
-			"worth": 5
-		},
-		{
-			"block": "iron ore",
-			"worth": 6
-		},
-		{
-			"block": "iron block",
-			"worth": 8
-		},
-		{
-			"block": "lapis ore",
-			"worth": 10
-		},
-		{
-			"block": "lapis block",
-			"worth": 12
-		},
-		{
-			"block": "redstone ore off",
-			"worth": 15
-		},
-		{
-			"block": "redstone block",
-			"worth": 20
-		},
-		{
-			"block": "gold ore",
-			"worth": 25
-		},
-		{
-			"block": "gold block",
-			"worth": 30
-		},
-		{
-			"block": "diamond ore",
-			"worth": 50
-		},
-		{
-			"block": "diamond block",
-			"worth": 60
-		},
-		{
-			"block": "emerald ore",
-			"worth": 70
-		},
-		{
-			"block": "emerald block",
-			"worth": 80
-		},
-		{
-			"block": "quartz ore",
-			"worth": 100
-		},
-		{
-			"block": "quartz block",
-			"worth": 120
-		},
-		{
-			"block": "end stone",
-			"worth": 135
-		},
-		{
-			"block": "obsidian",
-			"worth": 150
-		},
-		{
-			"block": "white stained clay",
-			"worth": 180
-		},
-		{
-			"block": "gray stained clay",
-			"worth": 200
-		},
-		{
-			"block": "light blue stained clay",
-			"worth": 250
-		},
-		{
-			"block": "purple stained clay",
-			"worth": 300
-		},
-		{
-			"block": "blue stained clay",
-			"worth": 350
-		},
-		{
-			"block": "yellow stained clay",
-			"worth": 400
-		},
-		{
-			"block": "red stained clay",
-			"worth": 500
-		}
-	]
+	"cobble stone": {
+		"worth": 0.5
+	},
+	"stone": {
+		"worth": 1
+	},
+	"coal ore": {
+		"worth": 3
+	},
+	"coal block": {
+		"worth": 5
+	},
+	"iron ore": {
+		"worth": 6
+	},
+	"iron block": {
+		"worth": 8
+	},
+	"lapis ore": {
+		"worth": 10
+	},
+	"lapis block": {
+		"worth": 12
+	},
+	"redstone ore off": {
+		"worth": 15
+	},
+	"redstone block": {
+		"worth": 20
+	},
+	"gold ore": {
+		"worth": 25
+	},
+	"gold block": {
+		"worth": 30
+	},
+	"diamond ore": {
+		"worth": 50
+	},
+	"diamond block": {
+		"worth": 60
+	},
+	"emerald ore": {
+		"worth": 70
+	},
+	"emerald block": {
+		"worth": 80
+	},
+	"quartz ore": {
+		"worth": 100
+	},
+	"quartz block": {
+		"worth": 120
+	},
+	"end stone": {
+		"worth": 135
+	},
+	"obsidian": {
+		"worth": 150
+	},
+	"white stained clay": {
+		"worth": 180
+	},
+	"gray stained clay": {
+		"worth": 200
+	},
+	"light blue stained clay": {
+		"worth": 250
+	},
+	"purple stained clay": {
+		"worth": 300
+	},
+	"blue stained clay": {
+		"worth": 350
+	},
+	"yellow stained clay": {
+		"worth": 400
+	},
+	"red stained clay": {
+		"worth": 500
+	}
 }

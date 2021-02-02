@@ -1,9 +1,11 @@
 {
 	"cobble stone": {
-		"worth": 0.5
+		"worth": 0.5,
+		"smelt": "stone"
 	},
 	"stone": {
-		"worth": 1
+		"worth": 1,
+		"mined": "stone"
 	},
 	"coal ore": {
 		"worth": 3
@@ -12,7 +14,8 @@
 		"worth": 5
 	},
 	"iron ore": {
-		"worth": 6
+		"worth": 6,
+		"smelt": "iron ingot"
 	},
 	"iron block": {
 		"worth": 8
@@ -24,13 +27,15 @@
 		"worth": 12
 	},
 	"redstone ore off": {
-		"worth": 15
+		"worth": 15,
+		"smelt": "redstone"
 	},
 	"redstone block": {
 		"worth": 20
 	},
 	"gold ore": {
-		"worth": 25
+		"worth": 25,
+		"smelt": "gold ingot"
 	},
 	"gold block": {
 		"worth": 30
@@ -48,7 +53,8 @@
 		"worth": 80
 	},
 	"quartz ore": {
-		"worth": 100
+		"worth": 100,
+		"smelt": "quartz"
 	},
 	"quartz block": {
 		"worth": 120

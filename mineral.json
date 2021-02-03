@@ -4,7 +4,9 @@
 		"smelt": "stone"
 	},
 	"stone": {
-		"worth": 1
+		"worth": 1,
+		"mined": "cobble stone",
+		"smelt": "stone"
 	},
 	"coal ore": {
 		"worth": 3,

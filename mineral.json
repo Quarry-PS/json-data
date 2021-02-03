@@ -16,6 +16,7 @@
 	"iron ore": {
 		"worth": 6,
 		"smelt": "iron ingot"
+		"iron ingot": 10
 	},
 	"iron block": {
 		"worth": 8
@@ -28,17 +29,19 @@
 	},
 	"redstone ore off": {
 		"worth": 15,
-		"smelt": "redstone"
+		"smelt": "redstone",
+		"redstone": 25
 	},
 	"redstone block": {
 		"worth": 20
 	},
 	"gold ore": {
 		"worth": 25,
-		"smelt": "gold ingot"
+		"smelt": "gold ingot",
+		"gold ingot": 35
 	},
 	"gold block": {
-		"worth": 30
+		"worth": 40
 	},
 	"diamond ore": {
 		"worth": 50
@@ -54,7 +57,8 @@
 	},
 	"quartz ore": {
 		"worth": 100,
-		"smelt": "quartz"
+		"smelt": "quartz",
+		"quartz": 115
 	},
 	"quartz block": {
 		"worth": 120

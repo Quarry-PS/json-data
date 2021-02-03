@@ -4,11 +4,12 @@
 		"smelt": "stone"
 	},
 	"stone": {
-		"worth": 1,
-		"mined": "stone"
+		"worth": 1
 	},
 	"coal ore": {
-		"worth": 3
+		"worth": 3,
+		"smelt": "coal",
+		"coal": 5
 	},
 	"coal block": {
 		"worth": 5
@@ -22,7 +23,8 @@
 		"worth": 8
 	},
 	"lapis ore": {
-		"worth": 10
+		"worth": 10,
+		"smelt": "lapis"
 	},
 	"lapis block": {
 		"worth": 12

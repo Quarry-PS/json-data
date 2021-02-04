@@ -18,7 +18,7 @@
 	},
 	"iron ore": {
 		"worth": 6,
-		"smelt": "iron ingot"
+		"smelt": "iron ingot",
 		"iron ingot": 10
 	},
 	"iron block": {
